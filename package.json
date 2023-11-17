@@ -1,0 +1,23 @@
+{
+  "name": "task2_2p",
+  "version": "1.0.0",
+  "description": "SIT725 week2 task2.2p",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu-Himan/sit725-2021-t2-prac2.git"
+  },
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/Himanshu-Himan/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "git+https://github.com/Himanshu-Himan/sit725-2021-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
